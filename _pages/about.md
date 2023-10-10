@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Phd student from tsinghua University.
+I'm a Phd student from tsinghua University.I am an autumn doctoral student majoring in Computer Science and Technology from Nanjing University of Aeronautics and Astronautics in China. I am honored to become and receive an offer from Professor Yi of the SmilinNet (Intelligent Mobile Innovation Network) research group. My research mainly focuses on Tactile Internet and edge intelligence. More related information can be found in our magazine paper. This involves exploring the integration of various network technologies, including multi-objective Bayesian optimization, network optimization, and human digital twins. the tactile internet is a disruptive and forward-looking network transmission paradigm that has the potential to completely change all aspects of human life, from healthcare (specifically physical therapy) to manufacturing. More relevant information can be found in our magazine documents. If you are interested in collaborating or just chatting, please feel free to contact me via email or add me on WeChat. We look forward to our dialogue and mutual learning, creating new opportunities for cooperation, just like where there is a will, there is a way and achieve extraordinary things for you and me.
 
 A data-driven personal website
 ======
